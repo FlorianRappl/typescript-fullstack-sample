@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "inlineSourceMap": true,
+    "declaration": false,
+    "outDir": "dist/client",
+    "lib": [
+      "es2015",
+      "es2016",
+      "dom"
+    ]
+  },
+  "include": [
+    "src/client/**/*"
+  ]
+}
