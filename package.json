@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/FlorianRappl/typescript-fullstack-sample#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-hooks-global-state": "^0.16.0",
